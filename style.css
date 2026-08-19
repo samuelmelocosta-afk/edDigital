@@ -1,1 +1,11 @@
 
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+img{
+   width: 500px;
+   margin-top: 35px;
+}
